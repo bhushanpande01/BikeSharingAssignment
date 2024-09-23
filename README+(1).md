@@ -31,13 +31,13 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Train R-squire=0.810
+Train R-squared=0.810
 
-Test R-squire=0.8013566101657432
+Test R-squared=0.8013566101657432
 
-Train Adj-R-squire=0.807
+Train Adj-R-squared=0.807
 
-Test Adj-R-squire=
+Test Adj-R-squared= 0.7819009935571158
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
