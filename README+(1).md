@@ -1,15 +1,6 @@
 # Bike Sharing Assignment
 > Outline a brief description of your project.
 
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -24,29 +15,24 @@ They have contracted a consulting company to understand the factors on which the
 
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
+
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 ## Business Goal
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Train R-squared=0.810
+Train R-squared=0.8311443094714426
 
-Test R-squared=0.8013566101657432
+Test R-squared=0.8099137099809726
 
-Train Adj-R-squared=0.807
+Train Adj-R-squared=0.827760427897724
 
 Test Adj-R-squared= 0.7819009935571158
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
-Python
+Python, numpy, pandas, matplotlib, seaborn, sklearn, statsmodels,
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
 Created by [@bhushanpande01] - feel free to contact me!
-
